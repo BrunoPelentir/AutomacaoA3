@@ -1,7 +1,7 @@
 # Projeto de Automação de Testes com Cypress
 
 Este repositório contém testes automatizados desenvolvidos utilizando [Cypress](https://www.cypress.io/). 
-Ele é parte do projeto final da disciplina de Gesstão e Qualidade de Software, o qual aborda o ciclo completo de testes de software.
+Ele é parte do projeto final da disciplina de Gestão e Qualidade de Software, o qual aborda o ciclo completo de testes de software.
 No projeto, foram desenvolvidos 30 casos de teste para validar funcionalidades de um site de comércio eletrônico ([Demoblaze](https://www.demoblaze.com/index.html)). Desses casos de testes, foram selecionados os 5 mais críticos, para serem automatizados.
 
 ## 👥 Colaboradores
