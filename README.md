@@ -20,6 +20,7 @@ Para conseguir executar os testes automatizados, é necessário ter os seguintes
 
 ## 📂 Estrutura do Projeto
 O repositório contém os seguintes arquivos e pastas principais:
+- aut_jmeter
 - cypress.config
 - package.json
 - package-lock.json
